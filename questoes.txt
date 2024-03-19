@@ -1,0 +1,220 @@
+1. Durante a fase de Design do desenvolvimento de software, o programador implementa recursos reunidos durante a fase de Requisitos.  Verdadeiro ou falso?
+False (*)
+
+
+2. Um recurso de software pode permitir que o usuário execute uma tarefa específica.  Verdadeiro ou falso?
+True (*)
+
+
+3. O Modelo Espiral reflete um processo de desenvolvimento iterativo.  Verdadeiro ou falso?
+True (*)
+
+
+4. Você gostaria de assistir um filme com alguns amigos e envia um e-mail para confirmar os planos.
+
+Oi, pessoal,
+Tem um novo filme de "Attack of the Duke!" estreando nesta sexta-feira no Cinema Oracle às 16:30. O cinema fica na esquina da South Street com a Walnut Ave. A melhor maneira de chegar lá é usar o metrô.
+
+Alguém gostaria de ir?
+
+Quais das seguintes opções são requisitos deste plano?
+Assistir “Attack of the Duke!” na sexta-feira no Cinema Oracle às 16:30 h. (*)
+
+(0/1) Pontos
+5. Quando o programa é executado normalmente (não no modo de depuração), qual instrução é verdadeira sobre os pontos de interrupção?
+Os pontos de interrupção não afetarão a execução do programa. (*)
+
+
+6. É possível definir um ponto de interrupção clicando em um número na margem esquerda do IDE. Um novo clique remove o ponto de interrupção.  Verdadeiro ou falso?
+True (*)
+
+7. Qual das seguintes opções é considerada um espaço em branco?  (Escolha três opções)
+(Escolha todas as respostas corretas)
+Espaço entre as palavras. (*)
+Recuo antes do código. (*)
+Linhas em branco no código. (*)
+
+8. Quais das duas opções são a sintaxe correta para adicionar comentários?  (Escolha duas opções)
+(Escolha todas as respostas corretas)
+Comece com uma barra e um asterisco (/*). Termine com um asterisco e uma barra (*/). (*)
+Comece com duas barras (//). Termine quando a linha terminar. (*)
+
+
+9. Na maioria das vezes, o Java lê o código linha por linha.
+True (*)
+
+10. O código dentro de chaves denomina-se "Bloco de código".  Verdadeiro ou falso?
+True (*)
+
+
+11. Na programação orientada a objetos, quais destas duas opções são enfatizadas?
+(Escolha todas as respostas corretas)
+Interação de objetos sem uma ordem prescrita. (*)
+Modelando objetos. (*)
+
+
+12. Qual das linguagens a seguir denomina-se linguagem procedural?
+C (*)
+
+13. Na programação orientada a objetos, um objeto é composto de propriedades e comportamentos; as propriedades são representadas como campos do objeto e o comportamento é representado como método.  Verdadeiro ou falso?
+True (*)
+
+14. No exemplo de código a seguir, identifique os métodos:
+
+public class Employee {
+public String name = " Duke";
+public int empId = 12105;
+public float salary;
+
+public void displaySalary(){
+System.out.println("Salário do Empregado": "+salary);
+}
+}
+
+displaySalary() (*)
+
+
+15. Um objeto pode interagir com outro chamando métodos.  Verdadeiro ou falso?
+True (*)
+
+
+1.O código dentro de chaves denomina-se "Bloco de código".  Verdadeiro ou falso?
+True (*)
+
+2. Na maioria das vezes, o Java lê o código linha por linha.
+True (*)
+
+3. Você pode definir quantos pontos de interrupção desejar para seu programa.  Verdadeiro ou falso?
+True (*)
+
+4. Quais das três afirmações a seguir são verdadeiras sobre os pontos de interrupção?  (Escolha três opções)
+(Escolha todas as respostas corretas)
+Eles pausam a execução do código. (*)
+Eles ajudam na depuração. (*)
+Eles podem ser usados para verificar o estado atual do programa. (*)
+
+
+6. É possível definir um ponto de interrupção clicando em um número na margem esquerda do IDE. Um novo clique remove o ponto de interrupção.  Verdadeiro ou falso?
+True (*)
+
+8. Há vários campos e métodos em uma classe Shirt. Qual das seguintes opções poderia ser um método da classe Shirt?
+getShirtSize() (*)
+
+
+9. Um objeto pode interagir com outro chamando métodos.  Verdadeiro ou falso?
+True (*)
+
+11. Você tem um jardim lindo em casa. No domingo, você começa a fazer mudas da sua rosa para criar mais algumas amostras dela e plantar no jardim Você consegue categorizar como este cenário poderia ser representado por classes e instâncias?
+Rose plant é a classe e as amostras (samples) geradas da rosa (rose plant) são instâncias dessa classe. (*)
+
+12. O Modelo Espiral reflete um processo de desenvolvimento iterativo.  Verdadeiro ou falso?
+True (*)
+
+13. Durante a fase de Design do desenvolvimento de software, o programador implementa recursos reunidos durante a fase de Requisitos.  Verdadeiro ou falso?
+False (*)
+
+14. Qual é a ordem correta das etapas no Modelo Espiral de Desenvolvimento?
+Requisitos, Design, Desenvolvimento, Teste (*)
+
+15. Um recurso de software pode permitir que o usuário execute uma tarefa específica.  Verdadeiro ou falso?
+True (*)
+
+1. Qual dos seguintes tipos de dados é o maior?
+long (*)
+
+2. Qual é o valor atribuído a x?
+int x = 25 - 5 * 4 / 2 - 10 + 4;
+9 (*)
+
+
+3. Qual é a saída? public static void main(String args[]) {
+  int x = 100;
+  int y = x;
+  y++;
+  System.out.println("O valor de x é " + x);
+  System.out.println("O valor de y é " + y);
+}
+O valor de y é 101 (*)
+
+
+4. Quantos bits existem em um byte?
+8 (*)
+
+5. Qual é o intervalo do tipo de dados de byte?
+–27 até 27–1 (*)
+
+
+6. Qual é a saída?
+
+public class Person {
+  public static void main(String args[]) {
+  int age = 20;
+  System.out.println("Valor da idade: " +age);
+  age = 5 + 3;
+  System.out.println("Valor da idade: " +age);
+  age = age + 1;
+  age++;
+  System.out.println("Valor da idade: " +age);
+  }
+}
+Valor da idade: 10 (*)
+
+7. Qual palavra-chave faz com que o valor da variável seja invariável?
+final (*)
+
+8. Pressupondo que x seja um valor inteiro, quais das seguintes opções são maneiras de aumentar o valor de x em 1?   (Escolha três opções)
+(Escolha todas as respostas corretas)
+x += 1; (*)
+x = x +1; (*)
+x++; (*)
+
+9. A atribuição de um valor à variável denomina-se "inicialização".   Verdadeiro ou falso?
+True (*)
+
+10. Qual é a saída?
+
+public class Welcome {
+  public static void main(String args[]) {
+   System.out.println("Este é meu primeiro programa");
+   int a = 2;
+   System.out.println("a é " + a);
+  }
+}
+Este é meu primeiro programa a é 2 (*)
+
+11. Identifique a variável declarada no código fornecido.
+
+public class Welcome {
+  public static void main(String args[]) {
+   int a = 2;
+   System.out.println("a é " + a);
+  }
+}
+a (*)
+
+12. Identifique os nomes de duas variáveis no código fornecido.  (Escolha duas opções)
+
+public class Variables {
+  public static void main(String args[]) {
+   String strVal = "Hello";
+  int intVal = 0;
+   System.out.println("Inteiro: " +intVal)
+  }
+}
+(Escolha todas as respostas corretas)
+intVal (*)
+String
+strVal (*)
+
+13. Java é uma linguagem bastante demarcada por tipos; portanto, você deve declarar um tipo de dados para todas as variáveis.  Verdadeiro ou falso?
+True (*)
+
+(0/1) Pontos
+14. Quais destas duas afirmações são verdadeiras sobre as variáveis?   (Escolha duas opções)
+(Escolha todas as respostas corretas)
+Elas permitem que o código seja editado de forma mais eficiente. (*)
+Elas tornam o código mais flexível. (*)
+
+15. Qual é a sintaxe válida para declarar e inicializar uma variável String?
+String x= "Java"; (*)
+
